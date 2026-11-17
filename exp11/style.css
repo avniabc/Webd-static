@@ -1,0 +1,15 @@
+/* readable source version */
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f5f3ff;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+.spacer {
+  height: 700px;
+  color: #999;
+}

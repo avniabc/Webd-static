@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;background:linear-gradient(135deg,#d4f1f4,#a6d8f0);min-height:100vh;margin:0}
+.box{width:340px;margin:80px auto;padding:25px;background:#fff;text-align:center;border-radius:14px;box-shadow:0 6px 18px rgba(0,0,0,.12)}
+h1{color:#05668d}
+input,button{padding:10px;margin:5px;font-size:15px}
+button{background:#05668d;color:#fff;border:0;border-radius:5px;cursor:pointer}
+#result{margin-top:18px;line-height:1.9}
